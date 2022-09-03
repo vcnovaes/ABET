@@ -1,7 +1,7 @@
 # ABET ( Audio Basic Editing Tool) 
 ## What is ABET? 
 
-The main goal about ABET is to wrapper some common editing scripts that are necessary in audio research. 
+The main goal about ABET is to wrapper some common editing scripts that are necessaries in audio research. 
 ## Installation
 - It's necessary to have installed `Python 3.x` and `pip3` in you machine
 - First you need to install the dependencies, to do that you can just run:
