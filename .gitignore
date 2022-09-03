@@ -3,3 +3,6 @@ tools/noise_reduction/__pycache__
 tools/utils/__pycache__
 *.wav
 *.png
+interface/__pycache__/interface.cpython-38.pyc
+utils/__pycache__/colors.cpython-38.pyc
+utils/__pycache__/utils.cpython-38.pyc
