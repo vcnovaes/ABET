@@ -1,0 +1,5 @@
+input_audios/clips
+tools/noise_reduction/__pycache__
+tools/utils/__pycache__
+*.wav
+*.png
